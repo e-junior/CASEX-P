@@ -1,0 +1,5 @@
+.env
+data/
+private_uploads/
+__pycache__/
+*.py[cod]
